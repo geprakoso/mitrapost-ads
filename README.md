@@ -1,0 +1,2 @@
+# mitrapost-ads
+wordpress
