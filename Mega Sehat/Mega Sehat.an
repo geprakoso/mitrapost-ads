@@ -1,0 +1,101 @@
+
+{
+
+	"expanded:images/Untitled-1_0006_Layer-1.png":"nil",
+	"expanded:images/rect_0003_Rectangle-1.png":"nil",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"expanded:images/Untitled-1_0001_Kesehatan-adalah-aset-paling-berharga-anda.png":"nil",
+	"HTMLFileName":"Mega Sehat.html",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"stage-Default Timeline_mark_ms":"-1",
+	"pref__general__TimelineShowGrid":"false",
+	"viewStartMs":"-81.587704425452",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"expanded:images/Untitled-1_0000_Konsultasikan-kesehatan-anda-bersama-kami.png":"nil",
+	"symbol_stage":{
+		"element_${_2}":{
+			"timelineColor2":"0x168c84",
+			"invisible":"false",
+			"timelineColor":"0x00a096",
+			"animationEnabled":"true",
+			"timelineColor3":"0x2a605c"},
+		"dummyStageParentWidth":"1456px",
+		"element_${border}":{
+			"timelineColor2":"0x5a558a",
+			"invisible":"false",
+			"timelineColor":"0x63599f",
+			"timelineTreeOpened":"false",
+			"locked":"false",
+			"timelineColor3":"0x4a485e"},
+		"dummyStageParentHeight":"180px",
+		"element_${_4}":{
+			"timelineColor2":"0x107faa",
+			"invisible":"false",
+			"timelineColor":"0x008dc8",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true",
+			"timelineColor3":"0x295a6d"},
+		"element_${_1}":{
+			"timelineColor2":"0x4fa275",
+			"invisible":"false",
+			"timelineColor":"0x50bd82",
+			"timelineTreeOpened":"true",
+			"animationEnabled":"true",
+			"timelineColor3":"0x456a55"},
+		"element_${Bg}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"invisible":"false",
+			"timelineColor":"0x91c767"},
+		"element_${rect_1}":{
+			"timelineColor2":"0x1aa38f",
+			"invisible":"false",
+			"timelineColor":"0x00bda4",
+			"animationEnabled":"true",
+			"timelineColor3":"0x2a6a61"},
+		"defaultStageParentHeight":"180px",
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"invisible":"false",
+			"timelineColor":"0xeedf79"},
+		"element_${rect_2}":{
+			"timelineColor2":"0x326a96",
+			"invisible":"false",
+			"timelineColor":"0x2f73ad",
+			"animationEnabled":"true",
+			"timelineColor3":"0x385063"},
+		"element_${_3}":{
+			"timelineColor2":"0x1095d2",
+			"invisible":"false",
+			"timelineColor":"0x00a9fa",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true",
+			"timelineColor3":"0x29647e"},
+		"defaultStageParentWidth":"1456px"},
+	"TransitionIdCounter":"35",
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"53",
+	"expanded:images/Untitled-1_0005_Doctor_with_Patient_RGB.png":"nil",
+	"pixelsPerMs":"0.061283744103483",
+	"expanded:images/Untitled-1_0003_Klinik-Pratama-Mega-Sehat-Pati.png":"nil",
+	"usedBOM":"false",
+	"nextElementColorIndex":"10",
+	"stage-Default Timeline_playhead_ms":"7500",
+	"viewStartY":"0",
+	"expanded:images/Untitled-1_0002_Daftar-Sekarang.png":"nil",
+	"expanded:images/Untitled-1_0004_Rounded-Rectangle-1.png":"nil"}
